@@ -1,0 +1,10 @@
+					Resultado esperado		Resultado obtenido	
+	Monto inicial	Tasa anual	Años	Valido	Monto final	Interes total	Monto final	Interes total
+	100	20	2	Valido	140	40	140	40
+	-200	-25	7	No valido	Excepcion	Excepcion	-550	-350
+	1240.54	12	5	Valido	1984.86	744.32	1984.86	744.32
+								
+								
+	Solo se aceptan valores positivos							
+	Valores con decimal solo para monto inicial y tasa anual							
+						
