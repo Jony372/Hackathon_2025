@@ -1,0 +1,12 @@
+		no de cuenta	Valido	Resultado esperado	Resultado obtenido
+		123123123	No valido	falso	falso
+			No valido	falso	falso
+		a123456789	No valido	falso	falso
+		3428934523	Valido	verdadero	verdadero
+		0	No valido	falso	verdadero
+		1111111111	Valido	verdadero	verdadero
+					
+					
+					
+Solo se aceptan valores numericos					
+No se aceptan valores menores o mayores a 10 digitos					
