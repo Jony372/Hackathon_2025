@@ -1,0 +1,4 @@
+				Resultado Esperado		Resultado Obtenido	
+Id	Nombre	Saldo	Valido	Nombre	Saldo	Nombre	Saldo
+{0,1,2,3,4,5}	{Nombre 1, Nombre 2, Nombre 3, Nombre 4, Nombre 5}	{2460.00, 606.80, 1589.78, 5182.88, 7067.66}	Valido	Nombre 5	7067.67	Nombre 5	7067.67
+{}	{}	{}	Invalido	No hay	0	Error	Error
